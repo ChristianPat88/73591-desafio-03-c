@@ -1,0 +1,24 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+
+p{
+  color: #4065ba;
+}
+
+.color-h1-h2{
+  color: #bb5397;
+}
+
+.logo-principal{
+  text-align: center;
+}
+
+.logo-imagen{
+  width: 200px;
+}
