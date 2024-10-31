@@ -5,6 +5,12 @@ body{
 h1{
   text-align: center;
   font-size: 50px;
+  font-weight: 100;
+  letter-spacing: 18px;
+}
+
+h2{
+  letter-spacing: 9px;
 }
 
 p{
@@ -15,10 +21,26 @@ p{
   color: #bb5397;
 }
 
-.logo-principal{
+.imagen-centrada{
   text-align: center;
 }
 
 .logo-imagen{
-  width: 200px;
+  width: 30%;
+}
+
+.a-derecha{
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.a-izquierda{
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.imagen-pie{
+  width: 100%;
 }
